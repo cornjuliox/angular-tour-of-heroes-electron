@@ -1,0 +1,9 @@
+Completed version of the Angular 'Tour of Heroes' tutorial app, but with a twist - one additional script has been added to make it run with electron.
+
+Want to try it out?
+1. Used node.js version 7.10.0
+1. Clone repo
+1. `npm install`
+1. Probably going to need to install Electron as well `npm install -g electron`
+1. Run `npm run-script electron` OR
+1. Run `npm start` to ng serve the web app so it can be accessed from Chrome
